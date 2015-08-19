@@ -24,3 +24,8 @@
 <p>You can download the zlib library at: http://www.zlib.net/</p>
 <p>I used <b>Visual Studio 2015</b>, running <b>Windows 10</b> while creating this project. I have <b>not</b> tested it on any other machine.</p>
 
+<h2>Demo</h2>
+
+<p>Here's a quick screenshot of a sprite rendering I did in OpenGL, using my own decoder to load the image data :)</p>
+![Demo Screenshot](http://i.imgur.com/Ix2QD3d.jpg "Demo Screenshot")
+
