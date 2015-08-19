@@ -12,6 +12,8 @@
   <li>Is <b>not</b> interlaced.</li>
 </ul>
 
+<p>I wrote the software in C++, and made it in an object-oriented style.</p>
+
 <h2>Compilation</h2>
 
 <p>I haven't made any kind of fancy Cmake for the project. I've just uploaded the source code. Therefore, you'll need to create your own project with the dependencies (listed below) if you want to compile it. Also, the code is not completely cross-platform friendly. I use a few specific windows functions, however I've tried my best to make it easy to port if you are interested.</p>
